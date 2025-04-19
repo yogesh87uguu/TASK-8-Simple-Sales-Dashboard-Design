@@ -1,0 +1,4 @@
+1. The 'West' region has the highest sales among all regions.
+2. Sales generally increase towards the end of the year, especially in November and December.
+3. The 'Technology' category contributes the most to overall sales.
+4. 'Central' region shows relatively lower sales performance and could benefit from targeted marketing.
